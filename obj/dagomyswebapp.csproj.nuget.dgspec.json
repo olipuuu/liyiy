@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspnet\\dagomyswebapp\\dagomyswebapp.csproj": {}
+    "C:\\Users\\106010176\\Downloads\\aspnet-main\\dagomyswebapp\\dagomyswebapp.csproj": {}
   },
   "projects": {
-    "D:\\aspnet\\dagomyswebapp\\dagomyswebapp.csproj": {
+    "C:\\Users\\106010176\\Downloads\\aspnet-main\\dagomyswebapp\\dagomyswebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspnet\\dagomyswebapp\\dagomyswebapp.csproj",
+        "projectUniqueName": "C:\\Users\\106010176\\Downloads\\aspnet-main\\dagomyswebapp\\dagomyswebapp.csproj",
         "projectName": "dagomyswebapp",
-        "projectPath": "D:\\aspnet\\dagomyswebapp\\dagomyswebapp.csproj",
-        "packagesPath": "C:\\Users\\Musyti\\.nuget\\packages\\",
-        "outputPath": "D:\\aspnet\\dagomyswebapp\\obj\\",
+        "projectPath": "C:\\Users\\106010176\\Downloads\\aspnet-main\\dagomyswebapp\\dagomyswebapp.csproj",
+        "packagesPath": "C:\\Users\\106010176\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\106010176\\Downloads\\aspnet-main\\dagomyswebapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Musyti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\106010176\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

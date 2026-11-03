@@ -20,57 +20,57 @@ build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
 build_property.RootNamespace = dagomyswebapp
 build_property.RootNamespace = dagomyswebapp
-build_property.ProjectDir = D:\aspnet\dagomyswebapp\
+build_property.ProjectDir = C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\aspnet\dagomyswebapp
+build_property.MSBuildProjectDirectory = C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/aspnet/dagomyswebapp/Pages/About.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/CreateResume.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/CreateResume.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlUmVzdW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/Error.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/Index.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/Privacy.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/Resume.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/Resume.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/Resumes.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/Resumes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdW1lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/_ViewImports.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/_ViewStart.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/aspnet/dagomyswebapp/Pages/Shared/_Layout.cshtml]
+[C:/Users/106010176/Downloads/aspnet-main/dagomyswebapp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-39s763q5zq
