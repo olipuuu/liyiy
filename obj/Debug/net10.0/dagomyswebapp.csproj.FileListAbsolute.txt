@@ -333,7 +333,6 @@ C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\rjsmcsh
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\scopedcss\bundle\dagomyswebapp.styles.css
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\scopedcss\projectbundle\dagomyswebapp.bundle.scp.css
-C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\compressed\uz6m4z9een-{0}-u8glvca6qa-u8glvca6qa.gz
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\compressed\sylipdx3fk-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\compressed\3smgzee7pn-{0}-fr7q2aak1r-fr7q2aak1r.gz
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\compressed\3qyopljykb-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -384,3 +383,4 @@ C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\refint\
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\dagomyswebapp.pdb
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\dagomyswebapp.genruntimeconfig.cache
 C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\ref\dagomyswebapp.dll
+C:\Users\106010176\Downloads\aspnet-main\dagomyswebapp\obj\Debug\net10.0\compressed\uz6m4z9een-{0}-miyh24sypa-miyh24sypa.gz

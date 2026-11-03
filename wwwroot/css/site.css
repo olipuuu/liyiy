@@ -67,8 +67,8 @@
 .form-group select:focus,
 .form-group textarea:focus {
   outline: none;
-  border-color: #007bff;
-  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.15);
+  border-color: #3A5BA0;
+  box-shadow: 0 0 0 3px rgba(58, 91, 160, 0.15);
 }
 
 
@@ -92,7 +92,7 @@
 
 .speciality input[type="radio"],
 .speciality input[type="checkbox"] {
-  accent-color: #008955;
+  accent-color: #3A5BA0;
   cursor: pointer;
   vertical-align: middle;
   transform: translateY(-1px);
@@ -104,13 +104,13 @@
   padding: 13px;
   border: none;
   border-radius: 10px;
-  background: #008955;
+  background: #3A5BA0;
   color: white;
   font-size: 16px;
   font-weight: 600;
   cursor: pointer;
   transition: background 0.25s ease, box-shadow 0.25s ease;
-  box-shadow: 0 4px 10px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 4px 10px rgba(58, 91, 160, 0.25);
 }
 .clear-button {
   width: 100%;
@@ -123,27 +123,27 @@
   font-weight: 600;
   cursor: pointer;
   transition: background 0.25s ease, box-shadow 0.25s ease;
-  box-shadow: 0 4px 10px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 4px 10px rgba(58, 91, 160, 0.25);
 }
 
 .clear-button:hover {
   background: #040fb4;
-  box-shadow: 0 6px 14px rgba(0, 137, 85, 0.35);
+  box-shadow: 0 6px 14px rgba(58, 91, 160, 0.35);
 }
 
 .clear-button:active {
   transform: translateY(1px);
-  box-shadow: 0 2px 6px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 2px 6px rgba(58, 91, 160, 0.25);
 }
 
 .form-button:hover {
-  background: #006b43;
-  box-shadow: 0 6px 14px rgba(0, 137, 85, 0.35);
+  background: #2E4A85;
+  box-shadow: 0 6px 14px rgba(58, 91, 160, 0.35);
 }
 
 .form-button:active {
   transform: translateY(1px);
-  box-shadow: 0 2px 6px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 2px 6px rgba(58, 91, 160, 0.25);
 }
 
 .delete-button {
@@ -158,22 +158,22 @@
   font-weight: 600;
   cursor: pointer;
   transition: background 0.25s ease, box-shadow 0.25s ease;
-  box-shadow: 0 4px 10px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 4px 10px rgba(58, 91, 160, 0.25);
 }
 
 .delete-button:hover {
   background: #860c45;
-  box-shadow: 0 6px 14px rgba(0, 137, 85, 0.35);
+  box-shadow: 0 6px 14px rgba(58, 91, 160, 0.35);
 }
 
 .delete-button:active {
   transform: translateY(1px);
-  box-shadow: 0 2px 6px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 2px 6px rgba(58, 91, 160, 0.25);
 }
 .student-card {
   margin-top: 25px;
   padding: 20px;
-  background: #02832b;
+  background: #2E4A85;
   color: #f1eee6;
   border-radius: 12px;
   text-align: left;
@@ -233,7 +233,7 @@
   font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #008955;
+  color: #3A5BA0;
   margin-bottom: 12px;
 }
 
@@ -263,19 +263,19 @@
   display: inline-block;
   padding: 13px 28px;
   border-radius: 10px;
-  background: #008955;
+  background: #3A5BA0;
   color: white;
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
   transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.15s ease;
-  box-shadow: 0 4px 10px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 4px 10px rgba(58, 91, 160, 0.25);
 }
 
 .home-button:hover {
-  background: #006b43;
+  background: #2E4A85;
   color: white;
-  box-shadow: 0 6px 14px rgba(0, 137, 85, 0.35);
+  box-shadow: 0 6px 14px rgba(58, 91, 160, 0.35);
 }
 
 .home-button:active {
@@ -285,13 +285,13 @@
 /* Вторая кнопка (контурная) */
 .home-button-secondary {
   background: transparent;
-  color: #008955;
-  border: 2px solid #008955;
+  color: #3A5BA0;
+  border: 2px solid #3A5BA0;
   box-shadow: none;
 }
 
 .home-button-secondary:hover {
-  background: #008955;
+  background: #3A5BA0;
   color: white;
 }
 
@@ -384,7 +384,7 @@ body {
 }
 
 .site-logo span {
-  color: #008955;
+  color: #3A5BA0;
 }
 
 /* Навигация */
@@ -406,7 +406,7 @@ body {
 }
 
 .site-nav a:hover {
-  color: #008955;
+  color: #3A5BA0;
 }
 
 /* Линия подчеркивания ссылки при наведении */
@@ -417,7 +417,7 @@ body {
   bottom: 0;
   width: 0%;
   height: 2px;
-  background-color: #008955;
+  background-color: #3A5BA0;
   transition: width 0.25s ease;
 }
 
@@ -461,7 +461,7 @@ body {
 }
 
 .footer-logo span {
-  color: #008955;
+  color: #3A5BA0;
 }
 
 .footer-container p {
@@ -564,17 +564,17 @@ body {
   display: inline-block;
   padding: 12px 25px;
   border-radius: 10px;
-  background: #008955;
+  background: #3A5BA0;
   color: white;
   text-decoration: none;
   font-weight: 600;
   transition: background 0.25s ease, box-shadow 0.25s ease;
-  box-shadow: 0 4px 10px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 4px 10px rgba(58, 91, 160, 0.25);
 }
 
 .resume-empty a:hover {
-  background: #006b43;
-  box-shadow: 0 6px 14px rgba(0, 137, 85, 0.35);
+  background: #2E4A85;
+  box-shadow: 0 6px 14px rgba(58, 91, 160, 0.35);
 }
 
 /* Сетка карточек резюме */
@@ -611,7 +611,7 @@ body {
 .resume-speciality {
   font-size: 14px;
   font-weight: 700;
-  color: #008955;
+  color: #3A5BA0;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 5px;
@@ -640,17 +640,17 @@ body {
   padding: 12px;
   border-radius: 10px;
   background: transparent;
-  color: #008955;
-  border: 2px solid #008955;
+  color: #3A5BA0;
+  border: 2px solid #3A5BA0;
   text-decoration: none;
   font-weight: 600;
   transition: all 0.25s ease;
 }
 
 .resume-details-button:hover {
-  background: #008955;
+  background: #3A5BA0;
   color: white;
-  box-shadow: 0 4px 10px rgba(0, 137, 85, 0.25);
+  box-shadow: 0 4px 10px rgba(58, 91, 160, 0.25);
 }
 
 
@@ -710,13 +710,13 @@ body {
 }
 
 .resume-skill {
-  background: rgba(0, 137, 85, 0.1);
-  color: #008955;
+  background: rgba(58, 91, 160, 0.1);
+  color: #3A5BA0;
   padding: 6px 14px;
   border-radius: 8px;
   font-size: 14px;
   font-weight: 600;
-  border: 1px solid rgba(0, 137, 85, 0.2);
+  border: 1px solid rgba(58, 91, 160, 0.2);
 }
 
 /* Отступ для кнопки возврата внизу страницы */
@@ -799,8 +799,8 @@ body {
 .search-field input[type="text"]:focus,
 .search-field select:focus {
   outline: none;
-  border-color: #008955;
-  box-shadow: 0 0 0 3px rgba(0, 137, 85, 0.15);
+  border-color: #3A5BA0;
+  box-shadow: 0 0 0 3px rgba(58, 91, 160, 0.15);
 }
 
 .search-actions {
