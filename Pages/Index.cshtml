@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Главная";
+}
+
+<div class="home-page">
+    <section class="home-hero">
+        <p class="home-label">COLLEGEJOB</p>
+        <h1>Твой следующий шаг в карьере</h1>
+        <p>
+            Публикуй резюме, расскажи о своих навыках
+            и получи возможности для профессионального роста
+        </p>
+        <div class="home-actions">
+            <a class="home-button" asp-page="/Resumes">
+                Смотреть резюме
+            </a>
+            <a class="home-button home-button-secondary" asp-page="/CreateResume">
+                Создать резюме
+            </a>
+        </div>
+    </section>
+
+    <section class="home-features">
+        <article class="home-feature">
+            <h2>Создай резюме</h2>
+            <p>
+                Расскажи о себе, специальности
+                и технологиях, которыми владеешь.
+            </p>
+        </article>
+        <article class="home-feature">
+            <h2>Изучи кандидатов</h2>
+            <p>
+                Просматривай анкеты и найди 
+                специалиста с нужными навыками.
+            </p>
+        </article>
+        <article class="home-feature">
+            <h2>Развивайся</h2>
+            <p>
+                Используй платформу как первый шаг
+                к поиску стажировки или работы.
+            </p>
+        </article>
+    </section>
+</div>
